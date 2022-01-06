@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe website for Odin Project
+Building this recipe website to train on my HTML skills.
